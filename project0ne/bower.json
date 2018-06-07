@@ -1,0 +1,21 @@
+{
+  "name": "MyBootstrapApp",
+  "description": "How to use bootstrap framework",
+  "main": "index.html",
+  "keywords": [
+    "MIT"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.0.13",
+    "bootstrap": "^4.1.1"
+  }
+}
