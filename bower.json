@@ -1,0 +1,22 @@
+{
+  "name": "Project2",
+  "authors": [
+    "Juan120 <juancortttes@gmail.com>"
+  ],
+  "description": "My secon boostrap project",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "fontawesome": "^5.0.13"
+  }
+}
