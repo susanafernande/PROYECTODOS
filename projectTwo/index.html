@@ -43,6 +43,26 @@
 
     <script src="bower_components/bootstrap/dist/js/bootstrap.js">
     </script>
+    <scrip
+      src="bower_components/hammerjs/hammer.js">
+
+    </scrip>
+    <scrip>
+      <var
+
+      var $body = document.body;
+
+      var hammertime = new Hammer( $body);
+      hammertime.on('swipeleft', function(ev){
+        console.log(ev);
+      });
+
+      hammertime.on('swiperight', function(ev){
+        console.log(ev);
+      });
+
+    </scrip>
+
 </body>
 
 
