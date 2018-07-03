@@ -5,3 +5,10 @@ body{
  #iconos{
    font-size: 35px;
  }
+#aboutimg div{
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+#aboutimg div img{
+  padding-top: 10px;
+}
