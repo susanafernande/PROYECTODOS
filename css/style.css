@@ -12,3 +12,14 @@ body{
 #aboutimg div img{
   padding-top: 10px;
 }
+
+#psp{
+  margin-top: 50px;
+}
+
+#prev-next{
+  margin-bottom: 50px;
+}
+#prev-next div{
+  padding: 15px;
+}
